@@ -13,3 +13,7 @@
 [Gameplay](https://drive.google.com/file/d/1W-ExGCOdjV1NBiO5feGW0XWJTFTt3RJU/view?usp=sharing)
 
 
+## This project was completed in 10 days by:
+[Julia Rebrova](https://github.com/JuliaRebrova)
+
+[Pavel Bogoslovskiy](https://github.com/PavelBogoslovskiy)
